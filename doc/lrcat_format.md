@@ -19,7 +19,7 @@ Genealogy is also often found. It is a string denoting the path in the
 hierarchy. Each component is the local_id, but prefix with the lenght
 of the id. They are separated by '/' and starts with a '/'.
 
-dateCreated: a time stamp of some sort. Not UNIX epoch.
+dateCreated: a time stamp of some sort. Not UNIX epoch. (it should represent the number of seconds elapsed from 2001-01-01 UTC)
 
 ## Settings
 
